@@ -1,0 +1,14 @@
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\bin\Debug\net8.0\DemoUI.exe
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\bin\Debug\net8.0\DemoUI.deps.json
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\bin\Debug\net8.0\DemoUI.runtimeconfig.json
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\bin\Debug\net8.0\DemoUI.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\bin\Debug\net8.0\DemoUI.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\refint\DemoUI.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\DemoUI.genruntimeconfig.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\DemoUI\obj\Debug\net8.0\ref\DemoUI.dll

@@ -1,0 +1,11 @@
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\bin\Debug\net8.0\Library.deps.json
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\bin\Debug\net8.0\Library.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\bin\Debug\net8.0\Library.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\Library.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\refint\Library.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\Library.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\Library\obj\Debug\net8.0\ref\Library.dll

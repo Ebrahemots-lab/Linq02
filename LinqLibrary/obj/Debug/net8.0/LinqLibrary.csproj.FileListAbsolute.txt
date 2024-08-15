@@ -1,0 +1,11 @@
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\bin\Debug\net8.0\LinqLibrary.deps.json
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\bin\Debug\net8.0\LinqLibrary.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\bin\Debug\net8.0\LinqLibrary.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\LinqLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\LinqLibrary.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\LinqLibrary.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\LinqLibrary.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\LinqLibrary.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\refint\LinqLibrary.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\LinqLibrary.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\DemoUI\LinqLibrary\obj\Debug\net8.0\ref\LinqLibrary.dll
